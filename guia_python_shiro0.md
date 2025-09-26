@@ -162,23 +162,10 @@ for e in estudiantes:
 
 Esto es como una **mini-tabla**:
 
-nombre
-
-curso
-
-nota
-
-Miyu
-
-Python
-
-9.5
-
-Kora
-
-SQL 101
-
-8.7
+| nombre | curso   | nota |
+| ------ | ------- | ---- |
+| Miyu   | Python  | 9.5  |
+| Kora   | SQL 101 | 8.7  |
 
 ---
 
@@ -346,29 +333,10 @@ Entender los **conceptos esenciales de bases de datos** a partir de lo que ya co
 
 Ejemplo:
 
-id
-
-nombre
-
-curso
-
-nota
-
-1
-
-Miyu
-
-Python
-
-9.5
-
-2
-
-Kora
-
-SQL 101
-
-8.7
+| id  | nombre | curso   | nota |
+| --- | ------ | ------- | ---- |
+| 1   | Miyu   | Python  | 9.5  |
+| 2   | Kora   | SQL 101 | 8.7  |
 
 ---
 
